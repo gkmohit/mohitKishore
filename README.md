@@ -7,7 +7,7 @@ There are three sections :
 	2: About me
 	3: Contact
 #TODO
-
+Unable to add image in the section in index.html ...
 
 #TEST
 
