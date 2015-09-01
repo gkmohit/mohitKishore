@@ -33,6 +33,10 @@ header{
   width:100%;
 }
 
+#header-index{
+    margin-bottom: 0;
+  }
+  
 #logo{
   text-align:center;
   margin:0;
