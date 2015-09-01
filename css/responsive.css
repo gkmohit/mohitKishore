@@ -23,6 +23,15 @@
   #gallery li: nth-child(4n){
     clear:left;
   }
+
+  #cover-photo{
+    margin: 0;
+    padding: 0;
+  }
+
+  #header-index{
+    margin-bottom: 0;
+  }
  /********************
   * Page : about me  *
   ********************/
@@ -62,6 +71,10 @@
   header{
     border-bottom: 10px solid #116611; 
     margin-bottom:60px;
+  }
+
+  #header-index{
+    margin-bottom: 0;
   }
   
 }
