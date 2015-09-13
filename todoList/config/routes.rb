@@ -1,4 +1,6 @@
 TodoList::Application.routes.draw do
+  resources :todo_things
+  root 'todo_things#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
